@@ -1,0 +1,50 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+$body-bg: rgb(51, 179, 164);
+$quote-bg: rgb(255, 255, 255);
+$btn-bg: rgb(248, 248, 248);
+
+$font: 'Arial', sans-serif;
+
+body {
+    background-color: $body-bg;
+    font-family: $font;
+}
+
+#quote-box {
+    margin: auto;
+    color: rgb(40, 40, 40);
+    padding: 20px;
+    width: 50%;
+    background-color: $quote-bg;
+}
+
+h1 {
+    font-family: $font;
+    font-size: 2.5em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#text {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#author {
+    font-size: 1.2em;
+    text-align: right;
+}
+
+header {
+    margin: 40px;
+}
+
+#new-quote {
+    float: right;
+}
+
+
+a :hover {
+    color: rgb(40, 40, 40);
+}
