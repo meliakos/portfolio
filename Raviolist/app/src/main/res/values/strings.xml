@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Raviolist</string>
+
+    <string-array name="categories">
+        <item>Category</item>
+        <item>Fruits and vegetables</item>
+        <item>Meats</item>
+        <item>Dairy</item>
+        <item>Frozen</item>
+        <item>Canned Goods</item>
+        <item>Baking</item>
+        <item>Drinks</item>
+    </string-array>
+
+    <string-array name="categories2">
+        <item>Sort by category:</item>
+        <item>Fruits and vegetables</item>
+        <item>Meats</item>
+        <item>Dairy</item>
+        <item>Frozen</item>
+        <item>Canned Goods</item>
+        <item>Baking</item>
+        <item>Drinks</item>
+    </string-array>
+
+    <string-array name="sortBy">
+        <item>Sort by:</item>
+        <item>Category A-Z</item>
+        <item>Category Z-A</item>
+        <item>Item A-Z</item>
+        <item>Item Z-A</item>
+        <item>Finished</item>
+    </string-array>
+
+
+    <string name="msg_token_fmt"></string>
+
+
+    <string name="list_desc_hint">List Description</string>
+    <string name="public_list_txtview">Set list public?</string>
+    <string name="switch_list_new_list"></string>
+
+    <!-- Register page -->
+    <string name="register_name">What should we call you?</string>
+    <string name="register_email">What is your email?</string>
+    <string name="register_password">Choose your password</string>
+    <string name="register_password_repeat">Repeat your password</string>
+    <string name="register_btn">Register</string>
+    <string name="register_already">Already have an account?</string>
+    <string name="register_already_login">Login here</string>
+
+    <!--Language selector -->
+    <string-array name="language_select">
+        <item>Select Language</item>
+        <item>English</item>
+        <item>Norwegian</item>
+        <item>German</item>
+    </string-array>
+
+    <!-- Bottom nav-->
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_settings">Settings</string>
+
+    <!-- Settings page-->
+    <string name="setting_notification">Allow Notifications</string>
+    <string name="settings_header">Settings</string>
+    <string name="logout_btn_settings">Log out</string>
+    <string name="delete_account">Delete This Account</string>
+    <string name="switch_text">Notifications off/on</string>
+
+
+    <!-- Add items page -->
+    <string name="hintItem">Enter item</string>
+
+    <!-- Log out popup -->
+    <string name="logout_popup">Are you sure you want to log out?</string>
+    <string name="logout_popup_yes">Yes</string>
+    <string name="logout_popup_no">No</string>
+    <string name="logout_popup_title">Log out</string>
+    <string name="logout_popup_toast">Logged out</string>
+
+
+    <!-- Login page -->
+    <string name="email_login">E-mail</string>
+    <string name="password_login">Password</string>
+    <string name="login_btn_login">Log in</string>
+    <string name="register_login">Register here</string>
+    <string name="forgot_password_login">Forgot password?</string>
+
+    <!-- Home fragment -->
+    <string name="fragment_home">Let\'s go shopping, </string>
+    <string name="fragment_home_your_lists">Your Shoppinglists:</string>
+
+
+    <!-- Create new list-->
+    <string name="list_name_hint">List Name</string>
+    <string name="list_description">List Description</string>
+    <string name="cancel_create_list">Cancel</string>
+    <string name="next_create_list">Next</string>
+
+
+    <!-- Add item dialog -->
+    <string name="add_item_dialog">Add item</string>
+    <string name="add_item_dialog_hint">Item name</string>
+    <string name="add_item_dialog_cancel">Cancel</string>
+    <string name="add_item_dialog_add">Add</string>
+
+    <!-- Delete item dialog -->
+    <string name="delete_item_dialog">Delete item</string>
+    <string name="delete_item_dialog_text">Are you sure want to delete this item?</string>
+    <string name="delete_item_dialog_cancel">Cancel</string>
+    <string name="delete_item_dialog_delete">Delete</string>
+    <string name="delete_list_dialog">Delete list</string>
+    <string name="delete_list_dialog_text">Are you sure you want to delete the list?</string>
+    <string name="delete_list_button">Delete list</string>
+    <string name="delete_item_button">Delete item</string>
+
+
+    <!-- Fragment page names -->
+    <string name="fragment_search">Search fragment</string>
+    <string name="username">Username</string>
+
+    <!-- Settings Delete dialog -->
+    <string name="delete_popup_title">Delete your account</string>
+    <string name="delete_popup">Are you sure you want to delete your account?</string>
+    <string name="delete_popup_yes">Yes</string>
+    <string name="delete_popup_toast">Account deleted</string>
+    <string name="delete_popup_no">No</string>
+
+</resources>

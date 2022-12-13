@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <EditText
+        android:id="@+id/edtItem"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:hint="@string/hintItem"
+        android:minHeight="48dp"
+        android:autofillHints=""
+        android:inputType="text" />
+
+    <Spinner
+        android:layout_width="130dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="8dp"
+        android:entries="@array/categories"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_baseline_remove_circle_outline_24"
+        android:layout_marginTop="20dp"
+        android:id="@+id/cross"
+        android:layout_marginStart="8dp"
+        android:visibility="gone"
+        android:contentDescription="@string/app_name"
+        />
+
+
+
+    </LinearLayout>

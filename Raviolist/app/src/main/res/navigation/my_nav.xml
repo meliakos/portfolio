@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.raviolist.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.raviolist.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <activity
+        android:id="@+id/createNewListActivity"
+        android:name="com.example.raviolist.CreateNewListActivity"
+        android:label="activity_create_new_list"
+        tools:layout="@layout/activity_create_new_list" />
+    <activity
+        android:id="@+id/newListActivity"
+        android:name="com.example.raviolist.NewListActivity"
+        android:label="activity_new_list"
+        tools:layout="@layout/activity_new_list" />
+</navigation>

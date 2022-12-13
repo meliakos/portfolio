@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raviolist</string>
+
+    <string-array name="categories">
+        <item>Kategori</item>
+        <item>Frukt og Grønt</item>
+        <item>Kjøtt</item>
+        <item>Meieri</item>
+        <item>Frysevarer</item>
+        <item>Hermetikk</item>
+        <item>Baking</item>
+        <item>Drikkevarer</item>
+    </string-array>
+
+    <string-array name="categories2">
+        <item>Sorter etter kategori:</item>
+        <item>Frukt og Grønt</item>
+        <item>Kjøtt</item>
+        <item>Meieri</item>
+        <item>Frysevarer</item>
+        <item>Hermetikk</item>
+        <item>Baking</item>
+        <item>Drikkevarer</item>
+    </string-array>
+
+    <!-- Language Select-->
+    <string-array name="language_select">
+        <item>Velg Språk</item>
+        <item>Engelsk</item>
+        <item>Norsk</item>
+        <item>Tysk</item>
+    </string-array>
+
+    <string name="msg_token_fmt"></string>
+
+    <!-- Register page -->
+    <string name="register_name">Hva skal vi kalle deg?</string>
+    <string name="register_email">Hva er din E-Post?</string>
+    <string name="register_password">Velg passord</string>
+    <string name="register_password_repeat">Gjenta passord</string>
+    <string name="register_btn">Registrer</string>
+    <string name="register_already">Har du allerede en bruker?</string>
+    <string name="register_already_login">Logg inn her</string>
+
+    <!-- -->
+    <string name="list_desc_hint">Liste Beskrivelse</string>
+    <string name="public_list_txtview">Offentlig liste?</string>
+    <string name="switch_list_new_list"></string>
+
+    <!-- Bottom nav-->
+    <string name="bottom_nav_home">Hjem</string>
+    <string name="bottom_nav_search">Søk</string>
+    <string name="bottom_nav_settings">Innstillinger</string>
+
+    <!-- Settings page-->
+    <string name="setting_notification">Sett påminnelse</string>
+    <string name="settings_header">Innstillinger</string>
+    <string name="logout_btn_settings">Logg ut</string>
+    <string name="delete_account">Slett brukerkonto</string>
+    <string name="switch_text">Notifikasjoner av/på</string>
+
+
+
+    <!-- Add items page -->
+    <string name="hintItem">Legg til vare</string>
+
+    <!-- Log out popup -->
+    <string name="logout_popup">Er du sikker på at du vil logge ut?</string>
+    <string name="logout_popup_yes">Ja</string>
+    <string name="logout_popup_no">Nei</string>
+    <string name="logout_popup_title">Logg ut</string>
+    <string name="logout_popup_toast">Logget ut</string>
+
+    <!-- Login page -->
+    <string name="email_login">E-post</string>
+    <string name="password_login">Passord</string>
+    <string name="login_btn_login">Logg inn</string>
+    <string name="register_login">Registrer her</string>
+    <string name="forgot_password_login">Glemt passord?</string>
+
+    <!-- Home fragment -->
+    <string name="fragment_home">La oss shoppe, </string>
+    <string name="fragment_home_your_lists">Dine handlelister:</string>
+
+
+
+    <!-- Create new list-->
+    <string name="list_name_hint">Liste Navn</string>
+    <string name="cancel_create_list">Avbryt</string>
+    <string name="next_create_list">Neste</string>
+    <string name="list_description">Beskrivelse</string>
+
+
+
+    <!-- Add item dialog -->
+    <string name="add_item_dialog">Legg til vare</string>
+    <string name="add_item_dialog_hint">Vare</string>
+    <string name="add_item_dialog_cancel">Avbryt</string>
+    <string name="add_item_dialog_add">Legg til</string>
+
+    <!-- Delete item/List dialog -->
+    <string name="delete_item_dialog">Slett produkt</string>
+    <string name="delete_item_dialog_text">Er du sikker at du vil slette produktet?</string>
+    <string name="delete_item_dialog_cancel">Avbryt</string>
+    <string name="delete_item_dialog_delete">Slett</string>
+    <string name="delete_list_dialog">Slett liste</string>
+    <string name="delete_list_dialog_text">Er du sikker at du vil slette listen?</string>
+    <string name="delete_list_button">Slett liste</string>
+    <string name="delete_item_button">Slett produkt</string>
+
+
+    <!-- Fragment page names -->
+    <string name="fragment_search">Søk fragment</string>
+    <string name="username">Username</string>
+
+
+    <string name="delete_popup_title">Slette bruker</string>
+    <string name="delete_popup">Er du sikker på du vil slette denne brukeren?</string>
+    <string name="delete_popup_yes">Ja</string>
+    <string name="delete_popup_toast">Bruker slettet</string>
+    <string name="delete_popup_no">Nei</string>
+</resources>

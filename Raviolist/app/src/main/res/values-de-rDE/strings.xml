@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raviolist</string>
+
+    <string-array name="categories">
+        <item>Kategorie</item>
+        <item>Gemüse und früchte</item>
+        <item>Fleish</item>
+        <item>Milchprodukte</item>
+        <item>Tiefkühlwaren</item>
+        <item>Hermetisiertes</item>
+        <item>Backwaren</item>
+        <item>Getränke</item>
+    </string-array>
+
+    <string-array name="categories2">
+        <item>Nach kategorie sortieren:</item>
+        <item>Gemüse und früchte</item>
+        <item>Fleish</item>
+        <item>Milchprodukte</item>
+        <item>Tiefkühlwaren</item>
+        <item>Hermetisiertes</item>
+        <item>Backwaren</item>
+        <item>Getränke</item>
+    </string-array>
+
+    <!-- Language Select-->
+    <string-array name="language_select">
+        <item>Sprache Auswählen</item>
+        <item>Englisch</item>
+        <item>Norwegisch</item>
+        <item>Deutsch</item>
+    </string-array>
+
+    <string name="msg_token_fmt"></string>
+
+    <!-- Register page -->
+    <string name="register_name">Was sollen wir sie nennen?</string>
+    <string name="register_email">Was ist deine E-Mail?</string>
+    <string name="register_password">Passwort Wählen</string>
+    <string name="register_password_repeat">Passwort wiederholen</string>
+    <string name="register_btn">Registrieren</string>
+    <string name="register_already">Hast du schon einen nutzer?</string>
+    <string name="register_already_login">Hier Einloggen</string>
+
+
+    <string name="list_desc_hint">Listen Beschreibung</string>
+    <string name="public_list_txtview">Öffentliche Liste?</string>
+    <string name="switch_list_new_list"></string>
+
+    <!-- Bottom nav-->
+    <string name="bottom_nav_home">Startseite</string>
+    <string name="bottom_nav_search">Suchen</string>
+    <string name="bottom_nav_settings">Einstellungen</string>
+
+    <!-- Settings page-->
+    <string name="setting_notification">Erinnerung setzen</string>
+    <string name="settings_header">Einstellungen</string>
+    <string name="logout_btn_settings">Abmelden</string>
+    <string name="delete_account">Konto Löschen</string>
+    <string name="switch_text">Benachrichtigungen aus/ein</string>
+
+
+    <!-- Add items page -->
+    <string name="hintItem">Produkt hinzufügen</string>
+
+    <!-- Log out popup -->
+    <string name="logout_popup">Willst du dich Abmelden?</string>
+    <string name="logout_popup_yes">Ja</string>
+    <string name="logout_popup_no">Nein</string>
+    <string name="logout_popup_title">Abmelden</string>
+    <string name="logout_popup_toast">Ausgeloggt</string>
+    <!-- Login page -->
+    <string name="email_login">E-mail</string>
+    <string name="password_login">Passwort</string>
+    <string name="login_btn_login">Einloggen</string>
+    <string name="register_login">Hier Registrieren</string>
+    <string name="forgot_password_login">Passwort Vergessen?</string>
+
+    <!-- Home fragment -->
+    <string name="fragment_home">Lass uns einkaufen, </string>
+    <string name="fragment_home_your_lists">Deine Einkaufslisten:</string>
+
+
+    <!-- Create new list-->
+    <string name="list_name_hint">Listen Name</string>
+    <string name="list_description">Beschreibung</string>
+
+    <string name="cancel_create_list">Abbrechen</string>
+    <string name="next_create_list">Weiter</string>
+
+    <!-- Add item dialog -->
+    <string name="add_item_dialog">Ware hinzufügen</string>
+    <string name="add_item_dialog_hint">Produkt</string>
+    <string name="add_item_dialog_cancel">Abbrechen</string>
+    <string name="add_item_dialog_add">Hinzufügen</string>
+
+    <!-- Delete item dialog -->
+    <string name="delete_item_dialog">Produkt Löschen</string>
+    <string name="delete_item_dialog_text">Sind sie sicher dass sie das Produkt löschen wollen?</string>
+    <string name="delete_item_dialog_cancel">Abbrechen</string>
+    <string name="delete_item_dialog_delete">Löschen</string>
+    <string name="delete_list_dialog">Liste löschen</string>
+    <string name="delete_list_dialog_text">Sins sie sicher dass sie dei liste löschen wollen?</string>
+    <string name="delete_list_button">Liste löschen</string>
+    <string name="delete_item_button">Produkt Löschen</string>
+
+
+    <!-- Fragment page names -->
+    <string name="fragment_search">Suchen fragment</string>
+    <string name="username">Username</string>
+
+
+    <string name="delete_popup_title">Lösche deinen Account</string>
+    <string name="delete_popup">Möchten Sie Ihr Konto wirklich löschen?</string>
+    <string name="delete_popup_yes">Ja</string>
+    <string name="delete_popup_toast">Konto gelöscht</string>
+    <string name="delete_popup_no">Nein</string>
+
+</resources>
